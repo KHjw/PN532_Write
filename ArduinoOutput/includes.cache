@@ -1,0 +1,67 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\kevin\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.4\\cores\\esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\kevin\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.4\\variants\\ttgo-t1"
+  },
+  {
+    "Sourcefile": "c:\\Github\\PN532-Practice\\PN532_Write\\ArduinoOutput\\sketch\\PN532_Write.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\kevin\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.4\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "c:\\Github\\PN532-Practice\\PN532_Write\\ArduinoOutput\\sketch\\PN532_Write.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\kevin\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.4\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "c:\\Github\\PN532-Practice\\PN532_Write\\ArduinoOutput\\sketch\\PN532_Write.ino.cpp",
+    "Include": "Adafruit_PN532.h",
+    "Includepath": "C:\\Users\\kevin\\OneDrive\\문서\\Arduino\\speakerSelector_arduino\\libraries\\Adafruit_PN532"
+  },
+  {
+    "Sourcefile": "c:\\Github\\PN532-Practice\\PN532_Write\\ArduinoOutput\\sketch\\PN532_Write.ino.cpp",
+    "Include": "Adafruit_SPIDevice.h",
+    "Includepath": "C:\\Users\\kevin\\OneDrive\\문서\\Arduino\\speakerSelector_arduino\\libraries\\Adafruit_BusIO"
+  },
+  {
+    "Sourcefile": "c:\\Github\\PN532-Practice\\PN532_Write\\ArduinoOutput\\sketch\\PN532_Write.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\kevin\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.4\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\kevin\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.4\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\kevin\\OneDrive\\문서\\Arduino\\speakerSelector_arduino\\libraries\\Adafruit_PN532\\Adafruit_PN532.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\kevin\\OneDrive\\문서\\Arduino\\speakerSelector_arduino\\libraries\\Adafruit_BusIO\\Adafruit_BusIO_Register.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\kevin\\OneDrive\\문서\\Arduino\\speakerSelector_arduino\\libraries\\Adafruit_BusIO\\Adafruit_I2CDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\kevin\\OneDrive\\문서\\Arduino\\speakerSelector_arduino\\libraries\\Adafruit_BusIO\\Adafruit_SPIDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
