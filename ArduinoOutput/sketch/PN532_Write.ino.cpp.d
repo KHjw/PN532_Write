@@ -132,5 +132,5 @@ c:\Github\PN532-Practice\PN532_Write\ArduinoOutput\sketch\PN532_Write.ino.cpp.o:
  C:\Users\kevin\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.4\cores\esp32/esp32-hal.h \
  C:\Users\kevin\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.4\libraries\SPI\src/SPI.h \
  C:\Users\kevin\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.4\cores\esp32/esp32-hal-spi.h \
- C:\Users\kevin\OneDrive\문서\Arduino\speakerSelector_arduino\libraries\Adafruit_PN532/Adafruit_PN532.h \
- C:\Users\kevin\OneDrive\문서\Arduino\speakerSelector_arduino\libraries\Adafruit_BusIO/Adafruit_SPIDevice.h
+ C:\Users\kevin\OneDrive\문서\Arduino\libraries\Adafruit_PN532/Adafruit_PN532.h \
+ C:\Users\kevin\OneDrive\문서\Arduino\libraries\Adafruit_BusIO/Adafruit_SPIDevice.h

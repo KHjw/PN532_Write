@@ -12,7 +12,7 @@
 Adafruit_PN532 nfc(18, 19, 23, 5);
 
 
-char * url = "G1P7"; //업로드 할 카드 정보
+char * url = "G1P2"; //업로드 할 카드 정보
 uint8_t ndefprefix = (0x01);
 
 

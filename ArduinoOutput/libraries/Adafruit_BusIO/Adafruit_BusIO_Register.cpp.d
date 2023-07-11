@@ -1,6 +1,6 @@
 c:\Github\PN532-Practice\PN532_Write\ArduinoOutput\libraries\Adafruit_BusIO\Adafruit_BusIO_Register.cpp.o: \
- C:\Users\kevin\OneDrive\문서\Arduino\speakerSelector_arduino\libraries\Adafruit_BusIO\Adafruit_BusIO_Register.cpp \
- C:\Users\kevin\OneDrive\문서\Arduino\speakerSelector_arduino\libraries\Adafruit_BusIO/Adafruit_BusIO_Register.h \
+ C:\Users\kevin\OneDrive\문서\Arduino\libraries\Adafruit_BusIO\Adafruit_BusIO_Register.cpp \
+ C:\Users\kevin\OneDrive\문서\Arduino\libraries\Adafruit_BusIO/Adafruit_BusIO_Register.h \
  C:\Users\kevin\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.4\cores\esp32/Arduino.h \
  C:\Users\kevin\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.4\cores\esp32/esp_arduino_version.h \
  C:\Users\kevin\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.4/tools/sdk/esp32/include/freertos/include/freertos/FreeRTOS.h \
@@ -129,9 +129,9 @@ c:\Github\PN532-Practice\PN532_Write\ArduinoOutput\libraries\Adafruit_BusIO\Adaf
  C:\Users\kevin\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.4/tools/sdk/esp32/include/spi_flash/include/esp_spi_flash.h \
  C:\Users\kevin\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.4/tools/sdk/esp32/include/spi_flash/include/esp_spi_flash_counters.h \
  C:\Users\kevin\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.4/tools/sdk/esp32/include/esp_hw_support/include/soc/esp32/spiram.h \
- C:\Users\kevin\OneDrive\문서\Arduino\speakerSelector_arduino\libraries\Adafruit_BusIO/Adafruit_I2CDevice.h \
+ C:\Users\kevin\OneDrive\문서\Arduino\libraries\Adafruit_BusIO/Adafruit_I2CDevice.h \
  C:\Users\kevin\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.4\libraries\Wire\src/Wire.h \
  C:\Users\kevin\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.4\cores\esp32/esp32-hal.h \
- C:\Users\kevin\OneDrive\문서\Arduino\speakerSelector_arduino\libraries\Adafruit_BusIO/Adafruit_SPIDevice.h \
+ C:\Users\kevin\OneDrive\문서\Arduino\libraries\Adafruit_BusIO/Adafruit_SPIDevice.h \
  C:\Users\kevin\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.4\libraries\SPI\src/SPI.h \
  C:\Users\kevin\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.4\cores\esp32/esp32-hal-spi.h

@@ -11,7 +11,7 @@
 Adafruit_PN532 nfc(PN532_SCK, PN532_MISO, PN532_MOSI, PN532_SS);
 
 
-char * url = "G1P7";                                          //업로드 할 카드 정보
+char * url = "G1P2";                                                              //업로드 할 카드 정보
 uint8_t ndefprefix = NDEF_URIPREFIX_HTTP_WWWDOT;
 
 
